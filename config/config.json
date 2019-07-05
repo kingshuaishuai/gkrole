@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "shuai2326",
+    "database": "gkrole",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
